@@ -1,0 +1,12 @@
+<RCC>
+  <qresource prefix="icons">
+    <file>icons/wechat.png</file>
+    <file>icons/ff27fdfc6f9d3f19506a9171bbaf1388.png</file>
+    <file>icons/minus.png</file>
+    <file>icons/qr.png</file>
+    <file>icons/close.png</file>
+  </qresource>
+  <qresource prefix="image">
+    <file>images/cherie-birkner-J6MJPuJiDPo-unsplash (1).jpg</file>
+  </qresource>
+</RCC>
